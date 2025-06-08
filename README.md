@@ -1,7 +1,7 @@
 - SELECT MUJEEB
 - FROM UNI
 - WHERE DEGREE = 'Bachelor's' AND COURSE = 'Software Engineering HONS' :
-- 
+
 
 
 <!---
